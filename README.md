@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-- 🔭 I’m currently working on graduating
 - 🌱 I’m currently learning virtualization (QEMU/KVM), containers (Docker/Kubernetes) and machine learning
 - 👯 I’m looking to collaborate on projects involving the above
 - 💬 Ask me about how I game on a windows virtual machine with near native performance
