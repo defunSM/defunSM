@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-I like learning about virtualization (QEMU/KVM), interested in learning more about containers (Docker/Kubernetes), interested in machine learning.
-
 - 🔭 I’m currently working on graduating.
 - 🌱 I’m currently learning virtualization (QEMU/KVM), containers (Docker/Kubernetes), machine learning.
 - 👯 I’m looking to collaborate on projects involving the above.
