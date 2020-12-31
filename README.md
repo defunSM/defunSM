@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi 👋, My name is Salman
+
+I like learning about virtualization (QEMU/KVM), interested in learning more about containers (Docker/Kubernetes), interested in machine learning.
+
+- 🔭 I’m currently working on graduating.
+- 🌱 I’m currently learning virtualization (QEMU/KVM), containers (Docker/Kubernetes), machine learning.
+- 👯 I’m looking to collaborate on projects involving the above.
+- 💬 Ask me about how I game on a windows virtual machine with near native performance.
+- 📫 How to reach me: salmanhossain500@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I use arch linux btw
+
+Skills: Python / C++ / Nginx
+
+![Profile views](https://gpvc.arturio.dev/defunSM)
+
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-1519-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
+
+
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defunSM&show_icons=true&theme=radical)
