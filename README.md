@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-- 🔭 I’m currently working on graduating.
-- 🌱 I’m currently learning virtualization (QEMU/KVM), containers (Docker/Kubernetes), machine learning.
-- 👯 I’m looking to collaborate on projects involving the above.
-- 💬 Ask me about how I game on a windows virtual machine with near native performance.
+- 🔭 I’m currently working on graduating
+- 🌱 I’m currently learning virtualization (QEMU/KVM), containers (Docker/Kubernetes) and machine learning
+- 👯 I’m looking to collaborate on projects involving the above
+- 💬 Ask me about how I game on a windows virtual machine with near native performance
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch linux btw
