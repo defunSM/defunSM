@@ -29,3 +29,4 @@ Skills: Python / C++ / Nginx
 
 
 ![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defunSM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defunSM&hide=TeX&layout=compact)
