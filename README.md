@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about how I game on a windows virtual machine with near native performance
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I use arch linux btw
+- ⚡ Fun fact: I use arch btw
 
 Skills: Python / C++ / Nginx
 
