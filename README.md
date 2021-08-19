@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
 
-Skills: Python / C++ / Nginx
+Skills: Python / JavaScript / Nginx
 
 ![Profile views](https://gpvc.arturio.dev/defunSM)
 
