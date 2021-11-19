@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-- 🌱 I’m currently learning about brownian motion
+- 🌱 I’m currently learning about bayesian analysis
 - 👯 I’m looking to collaborate on projects involving python
 - 💬 Ask me about how I game on a windows virtual machine with near native performance
 - 📫 How to reach me: salmanhossain500@gmail.com
