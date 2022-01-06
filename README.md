@@ -28,5 +28,5 @@ Skills: Python / JavaScript / Nginx
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-1519-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
 
-![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defunSM&show_icons=true&theme=radical)
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defunSM&show_icons=true&theme=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defunSM&hide=TeX&layout=compact)
