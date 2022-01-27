@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
 
-Skills: Python / JavaScript / Nginx
+Skills: Python / JavaScript 
 
 ![Profile views](https://gpvc.arturio.dev/defunSM)
 
