@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ### Hi 👋, My name is Salman
 
 - 🌱 I’m currently learning about neural networks
-- 💬 Ask me about how I game on a windows virtual machine with near native performance
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
