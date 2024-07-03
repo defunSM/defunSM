@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 Skills: Python / JavaScript 
 
-![Profile views](https://gpvc.arturio.dev/defunSM)
-
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-1519-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
 
