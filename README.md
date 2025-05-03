@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-- 🌱 I’m currently learning about large language models, SQL and homelab stuff.
+- 🌱 I’m currently learning about large language models, SQL, homelab and drone photography.
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
