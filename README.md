@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
-- 🌱 I’m currently learning about recommendation systems
+- 🌱 I’m currently learning about large language models, SQL and homelab stuff.
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
