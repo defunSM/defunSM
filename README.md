@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, My name is Salman
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 - 🌱 I’m currently learning about large language models, SQL, homelab and drone photography.
 - 📫 How to reach me: salmanhossain500@gmail.com
 - 😄 Pronouns: he/him
