@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about large language models, SQL, homelab and drone photography.
 - 📫 How to reach me: salmanhossain500@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have used arch btw
 
 Skills: Python / JavaScript 
 
