@@ -12,14 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋, My name is Salman
+### Hi 👋, My name is Sal
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 - 🌱 I’m currently learning about large language models, SQL, homelab and drone photography.
 - 📫 How to reach me: salmanhossain500@gmail.com
 
-Skills: Python / JavaScript 
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-1519-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
